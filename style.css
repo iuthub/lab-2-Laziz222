@@ -1,0 +1,14 @@
+body{
+	background-color: green;
+	text-align: left; 
+
+}
+h1{
+	font-family: sans-serif;
+	text-align: left;
+}
+p{
+	font-family: verdana;
+	text-align: left;
+	font-size: 12pt;
+}
